@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/webpagehome"
+        android:title="HOME" />
+    <item
+        android:id="@+id/headLines"
+        android:icon="@drawable/news"
+        android:title="Headlines" />
+    <item
+        android:id="@+id/global"
+        android:icon="@drawable/global"
+        android:title="Global" />
+    <item
+        android:id="@+id/india"
+        android:icon="@drawable/india1"
+        android:title="India" />
+    <item
+        android:id="@+id/tech"
+        android:icon="@drawable/data"
+        android:title="Technology" />
+    <item
+        android:id="@+id/crypto"
+        android:icon="@drawable/bitcoin"
+        android:title="Crypto Currency" />
+    <item
+        android:id="@+id/business"
+        android:icon="@drawable/money"
+        android:title="Business" />
+    <item
+        android:id="@+id/sports"
+        android:icon="@drawable/trophy"
+        android:title="Sports" />
+    <item
+        android:id="@+id/cricket"
+        android:icon="@drawable/cricket"
+        android:title="Cricket" />
+    <item
+        android:id="@+id/football"
+        android:icon="@drawable/football"
+        android:title="Football" />
+    <item
+        android:id="@+id/entertainment"
+        android:icon="@drawable/clapperboard"
+        android:title="Entertainment" />
+</menu>

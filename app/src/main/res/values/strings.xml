@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News Hunt</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="head">Headlines</string>
+    <string name="global">Global News</string>
+    <string name="tech">Technology News</string>
+    <string name="crypto">Crypto Currency News</string>
+    <string name="india">India News</string>
+    <string name="football">Football News</string>
+    <string name="business">Business News</string>
+    <string name="sports">Sports News</string>
+    <string name="cricket">Cricket News</string>
+    <string name="enter">Entertainment News</string>
+</resources>
